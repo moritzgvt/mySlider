@@ -3,8 +3,11 @@ a quick and easy to use slider-plugin for jQuery.
 <br><br>
 <b>what you need:</b><br>
 • jQuery (i tested with 3.3.1)<br>
-• a own css-file (in which you need to define your div that will hold the above html-code)
-
+• a own css-file (in which you need to define your div that will hold the above html-code)<br>
+<br>
+<b>CAUTION:</b><br>
+<b>in some cases this plugin will add <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a> to your project</b><br>
+<br>
 <b>how to use:</b><br>
 add the mySlider.min.js file to your website-project.<br>
 add html code like this:
