@@ -6,10 +6,13 @@ a quick and easy to use slider-plugin for jQuery.
 • a own css-file (in which you need to define your div that will hold the above html-code)<br>
 <br>
 <b>CAUTION:</b><br>
-<b>in some cases this plugin will add <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a> to your project</b><br>
+<b>to show the included icons correctly add <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a> to your project</b><br>
 <br>
 <b>how to use:</b><br>
-add the mySlider.min.js file to your website-project.<br>
+<b>add</b> the mySliderES.min.js file to your project<br><br>
+if you want to use default style or overwrite it:<br>
+<b>add</a> <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a>
+<b>add</a> the mySliderES.min.css file to your project
 add html code like this:
 <code>
     
