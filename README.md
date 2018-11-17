@@ -7,7 +7,8 @@ a quick and easy to use slider-plugin for jQuery.
 
 <b>how to use:</b><br>
 add the mySlider.min.js file to your website-project.<br>
-add html code like this:<br><code>
+add html code like this:
+<code>
     
     <div class="myContainer">
     
@@ -34,8 +35,10 @@ add html code like this:<br><code>
 add slider to <code>.myContainer</code> with jQuery:
 
 <code>jQuery('.myContainer').mySlider([type], [duration], [transition], [controls], [interval]);</code>
-<br>
-<b>Parameter</b><br>
+<br><br>
+<hr>
+<br><br>
+<b>Parameter</b><br><br>
 type | <i>String</i><br>
 <i>default: classic</i><br>
 classic: gives you classic slider with controls<br>
