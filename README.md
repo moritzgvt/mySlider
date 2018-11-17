@@ -3,7 +3,7 @@ a quick and easy to use slider-plugin for jQuery.
 <br><br>
 <b>what you need:</b><br>
 • jQuery (i tested with 3.3.1)<br>
-• a own CSS-File
+• a own css-file
 
 <b>how to use:</b><br>
 add the mySlider.min.js file to your website-project.<br>
