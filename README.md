@@ -10,7 +10,7 @@ add the mySlider.min.js file to your website-project.<br>
 add html code like this:
 <br>
 <code>
-
+    
     <div class="myContainer">
     
       <ul>
