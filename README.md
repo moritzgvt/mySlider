@@ -7,9 +7,7 @@ a quick and easy to use slider-plugin for jQuery.
 
 <b>how to use:</b><br>
 add the mySlider.min.js file to your website-project.<br>
-add html code like this:
-<br>
-<code>
+add html code like this:<br><code>
     
     <div class="myContainer">
     
