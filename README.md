@@ -11,12 +11,11 @@ a quick and easy to use slider-plugin for jQuery.
 <b>how to use:</b><br>
 <b>add</b> the mySliderES.min.js file to your project<br><br>
 if you want to use default style or overwrite it:<br>
-<b>add</a> <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a>
-<b>add</a> the mySliderES.min.css file to your project
+<b>add</b> <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a><br>
+<b>add</b> the mySliderES.min.css file to your project
 add html code like this:
 <code>
-    
-    <div class="myContainer">
+<div class="myContainer">
     
       <ul>
       
@@ -35,7 +34,6 @@ add html code like this:
       </ul>
     
     </div>
-
 </code>
 <br>
 add slider to <code>.myContainer</code> with jQuery:
