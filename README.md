@@ -1,5 +1,5 @@
 # mySlider.js
-a quick and easy to use slider-plugin for jQuery.<br>
+a quick and easy to use slider-plugin for jQuery<br>
 check the mySliderES branch for this slider with an external stylesheet
 <br><br>
 <b>what you need:</b><br>
@@ -10,7 +10,7 @@ check the mySliderES branch for this slider with an external stylesheet
 <b>in some cases this plugin will add <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a> to your project</b><br>
 <br>
 <b>how to use:</b><br>
-add the mySlider.min.js file to your website-project.<br>
+add the mySlider.min.js file to your website-project<br>
 add html code like this:
 <code>
     
