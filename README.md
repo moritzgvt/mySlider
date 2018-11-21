@@ -12,7 +12,7 @@ check the mySliderES branch for this slider with an external stylesheet
 <b>how to use:</b><br>
 add the mySlider.min.js file to your website-project<br>
 add html code like this:
-<pre>
+<code>
     
     <div class="myContainer">
     
@@ -34,7 +34,7 @@ add html code like this:
     
     </div>
 
-</pre>
+</code>
 <br>
 add slider to <code>.myContainer</code> with jQuery:
 
