@@ -1,21 +1,23 @@
 # mySlider.js
-a quick and easy to use slider-plugin for jQuery.
-<br><br>
-<b>what you need:</b><br>
-• jQuery (i tested with 3.3.1)<br>
-• a own css-file (in which you need to define your div that will hold the above html-code)<br>
-<br>
-<b>CAUTION:</b><br>
-<b>to show the included icons correctly add <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a> to your project</b><br>
-<br>
-<b>how to use:</b><br>
-<b>add</b> the mySliderES.min.js file to your project<br><br>
-if you want to use default style or overwrite it:<br>
-<b>add</b> <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a><br>
-<b>add</b> the mySliderES.min.css file to your project
-add html code like this:
-<code>
-<div class="myContainer">
+a quick and easy to use slider-plugin for jQuery<br>
+check the mySliderES branch for this slider with an external stylesheet
+
+## getting started
+
+### what you need:
+* jQuery (i tested with 3.3.1)
+* a own css-file (in which you need to define your div that will hold the above html-code)
+
+### how to use:
+* add the ```mySliderES.min.js``` file to your website-project
+
+if you want to use the styles and icons i used for testing:
+
+* add [FontAwesome Free](https://fontawesome.com/) css
+* add mySliderES.min.css
+* add html code like this:
+    ```
+    <div class="myContainer">
     
       <ul>
       
@@ -34,35 +36,33 @@ add html code like this:
       </ul>
     
     </div>
-</code>
-<br>
-add slider to <code>.myContainer</code> with jQuery:
+    ```
 
-<code>jQuery('.myContainer').mySlider([type], [duration], [transition], [controls], [interval]);</code>
-<br><br>
-<hr>
-<br><br>
-<b>Parameter</b><br><br>
-<b>type</b> | <i>String</i><br>
-<i>default: classic</i><br>
-classic: gives you classic slider with controls<br>
-auto: gives you a automatic slider without controls<br>
-<br>
-<b>duration</b> | <i>Interger</i><br>
-<i>default: 200</i><br>
-the duration of the slide animation in ms<br>
-<br>
-<b>transition</b> | <i>String</i><br>
-<i>default: linear</i><br>
-every transition that is possible for jQuery Animate (http://api.jquery.com/animate/)<br>
-<br>
-<b>controls</b> | <i>String</i>
-<i>default: enableControlsStyle</i><br>
-enableControlsStyle || disableControlsStyle<br>
-enables or diables the controls style<br>
-<br>
-<b>interval</b> | <i>Integer</i>
-<i>default: 5000</i><br>
-defines the interval for the automatic slider<br>
-<br>
+add slider to ```.myContainer``` with jQuery:
+
+```jQuery('.myContainer').mySlider([type], [duration], [transition], [controls], [interval]);```
+
+## Parameter
+### type | *String*
+*default: classic*<br>
+```classic```: gives you classic slider with controls<br>
+```auto```: gives you a automatic slider without controls
+
+### duration | *Interger*
+*default: 200*<br>
+the duration of the slide animation in ms
+
+### transition | *String*
+*default: linear*<br>
+every transition that is possible for [jQuery Animate](http://api.jquery.com/animate/)
+
+### controls | *String*
+*default: enableControlsStyle*<br>
+```enableControlsStyle || disableControlsStyle```<br>
+enables or diables the controls style
+
+### interval | *Integer*
+*default: 5000*<br>
+defines the interval for the automatic slider
+
 
