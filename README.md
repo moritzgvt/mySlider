@@ -37,7 +37,7 @@ if you want to use the styles and icons i used for testing:
     </div>
     ```
 
-*   add slider to ```.myContainer``` with jQuery:<br>
+*   add slider to ```.myContainer``` (you also can use your own custom class) with jQuery:<br>
     ```jQuery('.myContainer').mySlider([type], [duration], [transition], [controls], [interval]);```
 
 ## Parameter
