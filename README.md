@@ -1,15 +1,15 @@
 # mySlider.js
-a quick and easy to use slider-plugin for jQuery
+a quick and easy to use slider-plugin for jQuery<br>
 check the mySliderES branch for this slider with an external stylesheet
 
 ## getting started
 
 ### what you need:
-• jQuery (i tested with 3.3.1)
-• a own css-file (in which you need to define your div that will hold the above html-code)
+* jQuery (i tested with 3.3.1)
+* a own css-file (in which you need to define your div that will hold the above html-code)
 
 ### caution:
-in some cases this plugin will add <a href="https://fontawesome.com/" target="_blank">FontAwesome Free</a> to your project
+in some cases this plugin will add [FontAwesome Free](https://fontawesome.com/) to your project
 
 ### how to use:
 add the mySlider.min.js file to your website-project<br>
@@ -42,25 +42,25 @@ add slider to ```.myContainer``` with jQuery:
 
 ## Parameter
 ### type | *String*
-*default: classic*
-```classic```: gives you classic slider with controls
+*default: classic*<br>
+```classic```: gives you classic slider with controls<br>
 ```auto```: gives you a automatic slider without controls
 
 ### duration | *Interger*
-*default: 200*
+*default: 200*<br>
 the duration of the slide animation in ms
 
 ### transition | *String*
-*default: linear*
+*default: linear*<br>
 every transition that is possible for [jQuery Animate](http://api.jquery.com/animate/)
 
 ### controls | *String*
-*default: enableControlsStyle*
-```enableControlsStyle || disableControlsStyle```
+*default: enableControlsStyle*<br>
+```enableControlsStyle || disableControlsStyle```<br>
 enables or diables the controls style
 
 ### interval | *Integer*
-*default: 5000*
+*default: 5000*<br>
 defines the interval for the automatic slider
 
 
