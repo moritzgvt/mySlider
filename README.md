@@ -56,11 +56,11 @@ if you want to use the styles and icons i used for testing:
 ```auto```: gives you a automatic slider without controls
 
 ### duration | *Interger*
-*default: 200*<br>
+*default: ```200```*<br>
 the duration of the slide animation in ms
 
 ### transition | *String*
-*default: linear*<br>
+*default: ```linear```*<br>
 every transition that is possible for [jQuery Animate](http://api.jquery.com/animate/)
 
 ### controls | *String*
@@ -69,7 +69,7 @@ every transition that is possible for [jQuery Animate](http://api.jquery.com/ani
 enables or diables the controls style
 
 ### interval | *Integer*
-*default: 5000*<br>
+*default: ```5000```*<br>
 defines the interval for the automatic slider
 
 
