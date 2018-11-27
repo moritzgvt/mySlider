@@ -8,12 +8,18 @@ a quick and easy to use slider-plugin for jQuery
 * a own css-file (in which you need to define your div that will hold the above html-code)
 
 ### how to use:
-*   add the ```mySliderES.min.js``` file to your website-project
+*   add the ``` mySliderES.min.js ``` file to your website-project
+    ```
+    <script type="text/javascript" src="[yourPath]mySliderES.min.js"></script>
+    ```
 
 if you want to use the styles and icons i used for testing:
 
-*   add [FontAwesome Free](https://fontawesome.com/) css
-*   add mySliderES.min.css
+*   add [FontAwesome Free](https://fontawesome.com/) css<br>
+    ```
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"> ```
+*   add mySliderES.min.css<br>
+    ```<link rel="stylesheet" src="[yourpath]/mySlider.min.css">```
 *   add html code like this:
     ```
     <div class="myContainer">
@@ -37,8 +43,11 @@ if you want to use the styles and icons i used for testing:
     </div>
     ```
 
-*   add slider to ```.myContainer``` (you also can use your own custom class) with jQuery:<br>
-    ```jQuery('.myContainer').mySlider([type], [duration], [transition], [controls], [interval]);```
+*   init slider like this:<br>
+    ```
+    // you can also use your own custom class 
+    jQuery('.myContainer').mySlider([type], [duration], [transition], [controls], [interval]);
+    ```
 
 ## Parameter
 ### type | *String*
