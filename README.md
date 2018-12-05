@@ -1,6 +1,5 @@
 # mySlider.js
 a quick and easy to use slider-plugin for jQuery<br>
-check the mySliderES branch for this slider with an external stylesheet
 
 ## getting started
 
