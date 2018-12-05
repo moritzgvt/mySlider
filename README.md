@@ -6,9 +6,10 @@ a quick and easy to use slider-plugin for jQuery<br>
 ### what you need:
 * jQuery (i tested with 3.3.1)
 * a own css-file (for the root-div and your custom control-styles)
+* if you want to use the styled prestyled controls add the mySliderES.css file to your project
 
 ### how to use:
-add the mySlider.min.js file to your website-project<br>
+add the mySliderES.min.js file to your website-project<br>
 add html code like this:
 ```
     <div class="myContainer">
