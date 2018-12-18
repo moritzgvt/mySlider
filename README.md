@@ -43,7 +43,7 @@ add slider to ```.myContainer``` with jQuery:
 ```classic```: gives you classic slider with controls<br>
 ```auto```: gives you a automatic slider without controls
 
-### duration | *Interger*
+### duration | *Integer*
 *default: 200*<br>
 the duration of the slide animation in ms
 
